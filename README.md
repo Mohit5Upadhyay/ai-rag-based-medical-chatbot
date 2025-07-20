@@ -1,3 +1,5 @@
+## GenAI RAG based Medical ChatBot (Medi-Bot)
+
 ### Create Virtual envirironment:
 ```
 python -m venv medibot
